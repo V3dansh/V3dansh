@@ -63,7 +63,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/v3dansh/v3dansh/output/snake.svg" alt="Snake animation" />
-
-###
